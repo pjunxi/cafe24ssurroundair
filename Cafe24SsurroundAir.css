@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: local("Cafe24SsurroundAir"), url("Cafe24SsurroundAir-v1.1.woff2") format("woff2"), url("Cafe24SsurroundAir-v1.1.woff") format("woff"), url("Cafe24SsurroundAir-v1.1.ttf") format("truetype"), url("Cafe24SsurroundAir-v1.1.otf") format("opentype");
+}
